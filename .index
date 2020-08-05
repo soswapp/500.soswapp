@@ -1,0 +1,9 @@
+{
+  "http" : true,
+  "name" : "web-app-500",
+  "path" : "\/500",
+  "title" : "Internal Server Error",
+  "sub-path" : [
+    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "nav" : false,
+  "icon" : "",
+  "name" : "soswapp/500.soswapp",
+  "title" : "500 Server Page",
+  "description" : "Custom 500 Server page",
+  "homepage" : "https://github.com/soswapp/500.soswapp",
+  "authors": [
+      {
+        "name": "Ikechukwu Okalia",
+        "email": "dev@ikechukwuokalia.com"
+      },
+      {
+        "name": "Tym Frontiers Ltd.",
+        "email": "dev@tymfrontiers.com"
+      }
+  ],
+  "support" : {
+    "email" : "dev@tymfrontiers.com",
+    "website" : "https://dev.tymfrontiers.com",
+    "kollabo" : "tymfrontiers",
+    "twitter" : "tymfrontiers",
+    "facebook" : "tymfrontiers",
+    "instagram" : "tymfrontiers"
+  }
+}
